@@ -4,5 +4,5 @@ var1=10
 
 var2=Thursday
 
-var3=Cumbie
-
+#Adding another parameter by RRC
+var3=AnyDay
