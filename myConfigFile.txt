@@ -1,7 +1,11 @@
 # This is a sample configuration file
 
-var1=10
+var1=11
 
-var2=Thursday
 
 messageFromRyan="Happy Thursday"
+
+var2=Monday
+
+#Adding another parameter by RRC
+var3=AnyDay
