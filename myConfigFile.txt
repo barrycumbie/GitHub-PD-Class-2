@@ -2,6 +2,9 @@
 
 var1=11
 
+
+messageFromRyan="Happy Thursday"
+
 var2=Monday
 
 #Adding another parameter by RRC
