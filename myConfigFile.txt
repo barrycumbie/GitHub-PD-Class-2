@@ -3,3 +3,6 @@
 var1=10
 
 var2=Thursday
+
+#Adding another parameter by RRC
+var3=AnyDay
