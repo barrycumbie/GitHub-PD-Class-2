@@ -1,0 +1,5 @@
+# This is a sample configuration file
+
+var1=10
+
+var2=Thursday
